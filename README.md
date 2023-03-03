@@ -1,2 +1,2 @@
 # schedule2ics
-A tool for BNU students: Turn schedules downloaded from the school's system into .ics files.
+把BNU教务系统导出的课表转换成.ics日历文件。
