@@ -24,10 +24,10 @@ ICS To Calendar: https://www.routinehub.co/shortcut/7005/
 ### 2. 从教务系统导出课表
 教务系统 → “网上选课” → “我的课表” → 在“学年学期”中选择学期 → 选择“按列表方式显示” → 点击“检索” → 检查是否为所需学期，点击“导出”
 
-把下载的.xls文件第1步里下载的代码放在同一个文件夹里（如果你尝试打开这个xls，Excel会弹出一个警告，不用管它）
+把下载的.xls文件和上一步中下载的代码放在同一个文件夹里（如果你尝试打开这个xls，Excel会弹出一个警告，不用管它）
 
-### 3. 运行 schedule2ics 代码
-用Jupyter运行.ipynb或者在python里运行.py都行
+### 3. 运行schedule2ics代码
+在Jupyter里运行.ipynb，或者在python里运行.py
 
 ### 输出
 （按理说）运行代码后文件夹里会出现两个文件：20xx-20xx学年x季学期.ics 和 Apple.txt
