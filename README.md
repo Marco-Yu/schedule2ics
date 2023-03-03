@@ -16,7 +16,7 @@ ICS To Calendar: https://www.routinehub.co/shortcut/7005/
 ## 使用方法
 
 ### 0. 配置环境
-为作者也刚刚入门Python，怎么配置环境其实还没太整明白，所以这部分需要自己解决一下……
+因为作者也刚刚入门Python，怎么配置环境其实还没太整明白，所以这部分需要自己解决一下……
 
 ### 1. 下载代码
 安装好python和相关的包后，下载本项目中的 schedule2ics.py 或 schedule2ics.ipynb（建议单独放在一个文件夹里）
