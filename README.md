@@ -29,13 +29,18 @@ ICS To Calendar: https://www.routinehub.co/shortcut/7005/
 ### 3. 运行schedule2ics代码
 在Jupyter里运行.ipynb，或者在python里运行.py
 
-### 输出
+## 输出
 （按理说）运行代码后文件夹里会出现两个文件：20xx-20xx学年x季学期.ics 和 Apple.txt
 
-#### .ics文件
+### .ics文件
 日历文件，Windows和安卓可以直接打开并导入日历，但苹果设备好像不行（至少iPhone不行，iPad和Mac我不确定）
 
-#### Apple.txt
-由于iPhone没办法直接打开ics文件，这个txt文件是为了简化导入日历的操作，以下是（我认为）最简单的方法：1) 把 Apple.txt 发到自己的手机上；2) 在手机上打开 Apple.txt；3) 复制文件中的所有内容；4) 打开Safari浏览器，将复制的内容粘贴到地址栏中并访问
+### Apple.txt
+由于iPhone没办法直接打开ics文件，这个txt文件是为了简化导入日历的操作，以下是（我认为）最简单的方法：  
+1. 把 Apple.txt 发到自己的手机上；
+2. 在手机上打开 Apple.txt；
+3. 复制文件中的所有内容；
+4. 打开Safari浏览器，将复制的内容粘贴到地址栏中并访问
+5. 按“导入全部”
 
 ## 没了嘻嘻
