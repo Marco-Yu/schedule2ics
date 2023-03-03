@@ -4,11 +4,11 @@
 ## 声明
 作者不是主修计算机专业的学生，编写此程序主要是出于兴趣（闲的），还请多指教！
 
-本代码除了参考了所使用的库的官方文档以外，还参考了以下内容：  
+除了参考了所使用的库的官方文档以外，还参考了以下内容：  
 RFC 5545: https://www.rfc-editor.org/rfc/rfc5545  
 ICS To Calendar: https://www.routinehub.co/shortcut/7005/
 
-## 版本：python和直接调用的第三方package
+## 编写环境（俺也不知道这么说是否准确，但……）
 - python 3.9.13
 - icalendar 4.0.7
 - pandas 1.4.4
@@ -27,7 +27,7 @@ ICS To Calendar: https://www.routinehub.co/shortcut/7005/
 把下载的.xls文件和上一步中下载的代码放在同一个文件夹里（如果你尝试打开这个xls，Excel会弹出一个警告，不用管它）
 
 ### 3. 运行schedule2ics代码
-在Jupyter里运行.ipynb，或者在python里运行.py
+在JupyterLab/Notebook里运行.ipynb，或者在python里运行.py
 
 ## 输出
 （按理说）运行代码后文件夹里会出现两个文件：20xx-20xx学年x季学期.ics 和 Apple.txt
