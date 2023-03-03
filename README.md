@@ -41,6 +41,6 @@ ICS To Calendar: https://www.routinehub.co/shortcut/7005/
 2. 在手机上打开 Apple.txt；
 3. 复制文件中的所有内容；
 4. 打开Safari浏览器，将复制的内容粘贴到地址栏中并访问
-5. 按“导入全部”
+5. 按“导入全部”（Add All）
 
 ## 没了嘻嘻
